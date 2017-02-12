@@ -7,7 +7,7 @@ public class MyMainSrc {
 	}
 
 	private void bMethod() {
-		System.out.println("b-Method-ccc-ddd---stash test");
+		System.out.println("xb-Method-ccc-ddd---stash test");
 
 	}
 }
