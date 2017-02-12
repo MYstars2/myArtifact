@@ -3,7 +3,7 @@ package main.java;
 public class MyMainSrc {
 
 	private void aMethod(int i) {
-		System.out.println("a-Method. i=" + i);
+		System.out.println("az-zxcv Method. i=" + i);
 	}
 
 	private void bMethod() {
